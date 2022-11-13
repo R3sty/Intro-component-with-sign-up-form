@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Intro-component-with-sign-up-form/static/css/main.abd64e84.css",
+    "main.js": "/Intro-component-with-sign-up-form/static/js/main.da3278d1.js",
+    "index.html": "/Intro-component-with-sign-up-form/index.html",
+    "main.abd64e84.css.map": "/Intro-component-with-sign-up-form/static/css/main.abd64e84.css.map",
+    "main.da3278d1.js.map": "/Intro-component-with-sign-up-form/static/js/main.da3278d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.da3278d1.js"
+  ]
+}
