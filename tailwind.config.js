@@ -11,6 +11,7 @@ module.exports = {
 				primary: {
 					red: '#FF7A7A',
 					green: '#38CC8C',
+					pink: '#ff797a',
 				},
 				accent: {
 					blue: '#6055A5',
@@ -21,6 +22,9 @@ module.exports = {
 				},
 			},
 			fontFamily: { poppins: ['Poppins'] },
+			boxShadow: {
+				xl: '0 8px 0px 0px rgba(0 0 0 / 0.2)',
+			},
 		},
 	},
 	plugins: [],
