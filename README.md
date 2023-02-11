@@ -30,14 +30,14 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/screenshot1.png)
+![](./design/screenshot2.png)
+![](./design/screenshot3.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
-
-## My process
+- Solution URL: [Add solution URL here](https://github.com/R3sty/Intro-component-with-sign-up-form)
+- Live Site URL: [Add live site URL here](https://r3sty.github.io/Intro-component-with-sign-up-form/)
 
 ### Built with
 
@@ -81,10 +81,4 @@ In conclusion, building this project was a great learning experience for me. I l
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
-
-## Acknowledgments
-
-This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
+- Website - [Add your name here](https://www.restyiral.com/)
