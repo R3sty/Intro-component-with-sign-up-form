@@ -1,6 +1,6 @@
 # Frontend Mentor - Intro component with sign up form solution
 
-This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1).
 
 ## Table of contents
 
@@ -15,8 +15,6 @@ This is a solution to the [Intro component with sign up form challenge on Fronte
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -43,45 +41,43 @@ Users should be able to:
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
-- CSS Grid
 - Mobile-first workflow
 - [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- [Styled Components](https://tailwindcss.com//) - For styles
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
+This project was an opportunity for me to improve my skills in web development and learn new technologies. In this project, I gained experience in various areas including deployment, styling, validation, and state management.
 
-To see how you can add code snippets, see below:
+# Deployment Through Github Pages
 
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
+One of the key areas I learned in this project was deployment. I deployed the project using Github Pages, a platform that allows you to host static websites for free. This was a great opportunity for me to learn how to use Github Pages and understand its benefits. I learned how to configure my repository, set up the domain, and deploy my code to the platform.
 
-```css
-.proud-of-this-css {
-	color: papayawhip;
-}
-```
+# TailwindCSS
 
-```js
-const proudOfThisFunc = () => {
-	console.log('🎉');
-};
-```
+TailwindCSS is a utility-first CSS framework that I used to style the project. I learned how to use its classes to quickly and efficiently style my components. TailwindCSS has a large collection of pre-designed classes, making it easy to achieve a consistent look and feel for the project.
 
-### Continued development
+# Validation
+
+I learned about form validation in this project, which is the process of checking user input to ensure it meets certain criteria. I used JavaScript to validate the user's input and provide error messages if necessary. This was a crucial part of the project as it ensured that the user was entering correct and valid data.
+
+# React Hooks
+
+I used React Hooks in this project, which are functions that allow you to manage state and other react features in functional components. React Hooks provide a simpler and more flexible way of handling state compared to class components. I learned how to use the useState, useEffect, and useRef hooks to manage my component's state.
+
+# Responsive Design
+
+I also learned about responsive design, which involves creating a layout that adjusts to different screen sizes. This is important because it ensures that your website is accessible on different devices and looks good on different screen sizes. I used CSS media queries to create a responsive design for the project.
+
+# ChatGPT
+
+Lastly, I learned how to maximize the use of OpenAI's Chatgpt to help me build my project faster. I utilized Chatgpt's ability to generate code snippets and provide answers to my questions, which allowed me to complete my project in a shorter amount of time. This also helped me to improve my understanding of the technologies I was using and to learn from Chatgpt's experience.
+
+In conclusion, building this project was a great learning experience for me. I learned how to deploy a website, style it using TailwindCSS, validate user input, manage state using React Hooks, create a responsive design, and maximize the use of OpenAI's Chatgpt. I am confident that these skills will help me in future projects and I am excited to continue learning and growing as a web developer.
 
 ### Useful resources
 
-- [Converting colors](https://convertingcolors.com/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- [TailwindCSS Documentation](https://tailwindcss.com/docs/installation/) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
 
 ## Author
 
