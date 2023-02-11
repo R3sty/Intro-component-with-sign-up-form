@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/R3sty/Intro-component-with-sign-up-form)
-- Live Site URL: [Add live site URL here](https://r3sty.github.io/Intro-component-with-sign-up-form/)
+- Solution URL: [https://github.com/R3sty/Intro-component-with-sign-up-form]
+- Live Site URL: [https://r3sty.github.io/Intro-component-with-sign-up-form/]
 
 ### Built with
 
@@ -81,4 +81,4 @@ In conclusion, building this project was a great learning experience for me. I l
 
 ## Author
 
-- Website - [Add your name here](https://www.restyiral.com/)
+- Website - [Resty Iral](https://www.restyiral.com/)
